@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nevern1y/Nevern1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><samp>nevern1y@github:~$ ./activity --year</samp></h3>
 
-Here are some ideas to get you started:
+<img src="./contrib-heatmap.svg" width="860" alt="Nevern1y's contribution activity for the last year" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<h3><samp>nevern1y@github:~$ whoami</samp></h3>
+
+<table>
+  <tr>
+    <td valign="top" align="center"><img src="./avi-ascii.svg" width="360" alt="Animated ASCII portrait of Islam Kusainov" /></td>
+    <td valign="top" align="center"><img src="./info-card.svg" width="500" alt="Terminal-style profile card for Islam Kusainov" /></td>
+  </tr>
+</table>
+
+<br>
+
+<p>
+  <a href="https://github.com/Nevern1y/gemmajudge"><code>GemmaJudge</code></a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/Nevern1y/aral-saxaul-ai"><code>Aral Saxaul AI</code></a>
+  &nbsp;/&nbsp;
+  <a href="https://github.com/Nevern1y/forum-app"><code>Forum App</code></a>
+</p>
+
+<sub><samp>Built from self-contained SVGs. Public contribution data refreshes every day.</samp></sub>
+
+</div>

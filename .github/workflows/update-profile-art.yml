@@ -1,0 +1,85 @@
+name: Refresh profile activity
+
+"on":
+  schedule:
+    - cron: "23 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/update-profile-art.yml"
+
+concurrency:
+  group: refresh-profile-activity-${{ github.event_name }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: "3.12"
+
+      - name: Install portrait dependency
+        run: python -m pip install --disable-pip-version-check -r scripts/requirements.txt
+
+      - name: Regenerate profile artwork
+        run: |
+          python scripts/make_ascii_svg.py
+          python scripts/make_info_card.py
+          python scripts/render_heatmap_svg.py
+
+      - name: Run profile-art tests
+        run: python -m unittest discover -s tests -v
+
+  update:
+    if: github.event_name != 'push' && github.repository == 'Nevern1y/Nevern1y'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: "3.12"
+
+      - name: Refresh public contribution data
+        run: |
+          python scripts/fetch_contributions.py
+          python scripts/render_heatmap_svg.py
+
+      - name: Validate generated files
+        run: python -m unittest discover -s tests -v
+
+      - name: Commit refreshed graph
+        shell: bash
+        run: |
+          if git diff --quiet -- data/contributions.json contrib-heatmap.svg; then
+            echo "Contribution graph is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/contributions.json contrib-heatmap.svg
+          git commit -m "chore: refresh contribution graph"
+          git push

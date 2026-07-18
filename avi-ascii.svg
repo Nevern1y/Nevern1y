@@ -1,0 +1,219 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 370" role="img" aria-labelledby="title description">
+<title id="title">Animated ASCII portrait of Islam Kusainov</title>
+<desc id="description">A monochrome portrait typed diagonally one row at a time.</desc>
+<defs>
+  <linearGradient id="portrait-panel" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1118"/>
+    <stop offset="1" stop-color="#101c25"/>
+  </linearGradient>
+</defs>
+<style>
+  text { font-family: "Cascadia Mono", "JetBrains Mono", Consolas, monospace; }
+  .ascii { fill: #b9cad5; font-size: 7.2px; font-weight: 600; }
+  @media (prefers-reduced-motion: reduce) { .reveal-clip { width: 334px !important; } .cursor { display: none; } }
+</style>
+<rect x="1" y="1" width="378" height="368" rx="18" fill="url(#portrait-panel)" stroke="#263746" stroke-width="2"/>
+<path d="M1 47H379" stroke="#22313e"/>
+<circle cx="23" cy="24" r="5" fill="#ff6b6b"/><circle cx="41" cy="24" r="5" fill="#ffd166"/><circle cx="59" cy="24" r="5" fill="#2be3a7"/>
+<text x="82" y="29" fill="#d8e5ed" font-size="14" font-weight="600">avatar.txt</text>
+<clipPath id="row-0"><rect class="reveal-clip" x="23" y="59.00" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.220s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="66.00" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-0)" xml:space="preserve">                            :-=+****#**++==-:                           </text>
+<rect class="cursor" x="23" y="59.20" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.220s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.220s" fill="freeze"/></rect>
+<clipPath id="row-1"><rect class="reveal-clip" x="23" y="66.35" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.275s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="73.35" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-1)" xml:space="preserve">                       :::----------:-==+*%**%#==:                      </text>
+<rect class="cursor" x="23" y="66.55" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.275s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.275s" fill="freeze"/></rect>
+<clipPath id="row-2"><rect class="reveal-clip" x="23" y="73.70" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.330s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="80.70" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-2)" xml:space="preserve">                   :-----==-------===#%%%####%%%@%*=-:                  </text>
+<rect class="cursor" x="23" y="73.90" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.330s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.330s" fill="freeze"/></rect>
+<clipPath id="row-3"><rect class="reveal-clip" x="23" y="81.05" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.385s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="88.05" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-3)" xml:space="preserve">                :------------=+####%###%###%%%%%%%#*#%#=:               </text>
+<rect class="cursor" x="23" y="81.25" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.385s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.385s" fill="freeze"/></rect>
+<clipPath id="row-4"><rect class="reveal-clip" x="23" y="88.40" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.440s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="95.40" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-4)" xml:space="preserve">              :--:----::::=#*%%%%%%%%##%%%%%%%%%%%%%%%%%%*-             </text>
+<rect class="cursor" x="23" y="88.60" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.440s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.440s" fill="freeze"/></rect>
+<clipPath id="row-5"><rect class="reveal-clip" x="23" y="95.75" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.495s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="102.75" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-5)" xml:space="preserve">            :-------:::+*#%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#-           </text>
+<rect class="cursor" x="23" y="95.95" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.495s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.495s" fill="freeze"/></rect>
+<clipPath id="row-6"><rect class="reveal-clip" x="23" y="103.10" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.550s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="110.10" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-6)" xml:space="preserve">          :--::----::*%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%#:         </text>
+<rect class="cursor" x="23" y="103.30" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.550s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.550s" fill="freeze"/></rect>
+<clipPath id="row-7"><rect class="reveal-clip" x="23" y="110.45" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.605s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="117.45" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-7)" xml:space="preserve">        :::::-::-- -#%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+        </text>
+<rect class="cursor" x="23" y="110.65" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.605s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.605s" fill="freeze"/></rect>
+<clipPath id="row-8"><rect class="reveal-clip" x="23" y="117.80" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.660s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="124.80" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-8)" xml:space="preserve">       :::::---:: -##%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%@#:      </text>
+<rect class="cursor" x="23" y="118.00" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.660s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.660s" fill="freeze"/></rect>
+<clipPath id="row-9"><rect class="reveal-clip" x="23" y="125.15" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.715s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="132.15" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-9)" xml:space="preserve">      :::::-:::-::#@#%%%%%%%%%%%%%%@%%@@%%%%%%@%%%%%%%%%%%%%@%%%%%-     </text>
+<rect class="cursor" x="23" y="125.35" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.715s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.715s" fill="freeze"/></rect>
+<clipPath id="row-10"><rect class="reveal-clip" x="23" y="132.50" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.770s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="139.50" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-10)" xml:space="preserve">     ::::::::::-::%%##%%%%%%%%%%%%%@%%%%%%%%%@%%%%%%%@@%@@%%%%%%%%%:    </text>
+<rect class="cursor" x="23" y="132.70" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.770s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.770s" fill="freeze"/></rect>
+<clipPath id="row-11"><rect class="reveal-clip" x="23" y="139.85" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.825s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="146.85" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-11)" xml:space="preserve">    :::::::::::::*%#%@@%#%%%@%%%%%@@%%%%%%%@%%%%%%%%%%%%@%%%%%%%%%%%-   </text>
+<rect class="cursor" x="23" y="140.05" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.825s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.825s" fill="freeze"/></rect>
+<clipPath id="row-12"><rect class="reveal-clip" x="23" y="147.20" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.880s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="154.20" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-12)" xml:space="preserve">   :::::::::::: =@%%%@@%%%%%%%%%%##%@@%%%%%%%%#%%%%%%%%%%%%%%%@%%%@@*   </text>
+<rect class="cursor" x="23" y="147.40" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.880s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.880s" fill="freeze"/></rect>
+<clipPath id="row-13"><rect class="reveal-clip" x="23" y="154.55" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.935s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="161.55" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-13)" xml:space="preserve">  :::::::::::::::#%#%@%%%%%%@@@@%*===*#%#+==+#%%%##**#%%##%%%%%%%%@#--  </text>
+<rect class="cursor" x="23" y="154.75" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.935s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.935s" fill="freeze"/></rect>
+<clipPath id="row-14"><rect class="reveal-clip" x="23" y="161.90" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="0.990s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="168.90" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-14)" xml:space="preserve">  -:::-::::::::::%%%%%%%%%%%@@%+=-:  =+-:::----=#=-=-====-=*%@@@%@@+:=  </text>
+<rect class="cursor" x="23" y="162.10" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="0.990s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="0.990s" fill="freeze"/></rect>
+<clipPath id="row-15"><rect class="reveal-clip" x="23" y="169.25" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.045s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="176.25" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-15)" xml:space="preserve"> ::::::::::::-:::%@%%%%%%%%@@*::  :::  ::-====--+::::--:-::--+#@@@#--=- </text>
+<rect class="cursor" x="23" y="169.45" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.045s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.045s" fill="freeze"/></rect>
+<clipPath id="row-16"><rect class="reveal-clip" x="23" y="176.60" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.100s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="183.60" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-16)" xml:space="preserve"> ::::::::::::::: *@%@%%@%%%@#: ::::    :-::  :-------=-==-:== -@#=--=== </text>
+<rect class="cursor" x="23" y="176.80" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.100s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.100s" fill="freeze"/></rect>
+<clipPath id="row-17"><rect class="reveal-clip" x="23" y="183.95" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.155s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="190.95" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-17)" xml:space="preserve">:::::::::::-:::: =@%%%@@@%%=  ::  :+**#%@@%#+-   :--:: :-  :---*--=====-</text>
+<rect class="cursor" x="23" y="184.15" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.155s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.155s" fill="freeze"/></rect>
+<clipPath id="row-18"><rect class="reveal-clip" x="23" y="191.30" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.210s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="198.30" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-18)" xml:space="preserve">:::::-:::::-::::: +@@@%@@%- -==:=**+--: -++%%%*   :::     =*#%#+--======</text>
+<rect class="cursor" x="23" y="191.50" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.210s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.210s" fill="freeze"/></rect>
+<clipPath id="row-19"><rect class="reveal-clip" x="23" y="198.65" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.265s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="205.65" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-19)" xml:space="preserve">-::::::::::::-:--: #@@@@@* :: :=+-  ::  : :-:-+=:       :*%%*=+#+-======</text>
+<rect class="cursor" x="23" y="198.85" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.265s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.265s" fill="freeze"/></rect>
+<clipPath id="row-20"><rect class="reveal-clip" x="23" y="206.00" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.320s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="213.00" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-20)" xml:space="preserve">-::::::::::-:-------#*+@@: :-:-=---++*++++=--===-::  -  --:::  =========</text>
+<rect class="cursor" x="23" y="206.20" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.320s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.320s" fill="freeze"/></rect>
+<clipPath id="row-21"><rect class="reveal-clip" x="23" y="213.35" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.375s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="220.35" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-21)" xml:space="preserve">-::::::-::::::--:-%-++-#*  -=: -***###%@@*=**=*+=-:  :=*%%#++#*=-=======</text>
+<rect class="cursor" x="23" y="213.55" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.375s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.375s" fill="freeze"/></rect>
+<clipPath id="row-22"><rect class="reveal-clip" x="23" y="220.70" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.430s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="227.70" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-22)" xml:space="preserve">:::::--:::::::--:-+:+##====+*     :-=-=++-:=*=*=-=:: +**+**-=**-====++=-</text>
+<rect class="cursor" x="23" y="220.90" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.430s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.430s" fill="freeze"/></rect>
+<clipPath id="row-23"><rect class="reveal-clip" x="23" y="228.05" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.485s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="235.05" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-23)" xml:space="preserve"> -::-:::::::--:-:-+#%@@#+-=*=    --:  -===+++=-:=+:::-*=-=-:  -++===+++:</text>
+<rect class="cursor" x="23" y="228.25" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.485s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.485s" fill="freeze"/></rect>
+<clipPath id="row-24"><rect class="reveal-clip" x="23" y="235.40" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.540s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="242.40" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-24)" xml:space="preserve"> :-::-::::::----:=@%#%%@*-+#=  ::-:::-----:   -       +=:==-  :++=+++*= </text>
+<rect class="cursor" x="23" y="235.60" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.540s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.540s" fill="freeze"/></rect>
+<clipPath id="row-25"><rect class="reveal-clip" x="23" y="242.75" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.595s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="249.75" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-25)" xml:space="preserve">  -:::::::::----::--=++%*=##+-:   :         --===+=   =+  :-:  +*+==+*: </text>
+<rect class="cursor" x="23" y="242.95" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.595s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.595s" fill="freeze"/></rect>
+<clipPath id="row-26"><rect class="reveal-clip" x="23" y="250.10" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.650s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="257.10" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-26)" xml:space="preserve">  :-:-::-----::-==-=*--#%++*#*=:           -+++==-::-  *+      +@@%+=-  </text>
+<rect class="cursor" x="23" y="250.30" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.650s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.650s" fill="freeze"/></rect>
+<clipPath id="row-27"><rect class="reveal-clip" x="23" y="257.45" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.705s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="264.45" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-27)" xml:space="preserve">   -:-------::#*++*#%: +%#**#*++-:         +@+     :-  :*:     -%@@@%   </text>
+<rect class="cursor" x="23" y="257.65" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.705s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.705s" fill="freeze"/></rect>
+<clipPath id="row-28"><rect class="reveal-clip" x="23" y="264.80" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.760s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="271.80" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-28)" xml:space="preserve">    --------:+#*%%%%#  :%%#****##+-:   -==+=+*+-==:     -:     =%@@@-   </text>
+<rect class="cursor" x="23" y="265.00" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.760s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.760s" fill="freeze"/></rect>
+<clipPath id="row-29"><rect class="reveal-clip" x="23" y="272.15" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.815s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="279.15" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-29)" xml:space="preserve">    :=-----=:=#*@@@@+  -#@%####*#**- =##%@@%*%@@%@%+==+++     -*%@@-    </text>
+<rect class="cursor" x="23" y="272.35" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.815s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.815s" fill="freeze"/></rect>
+<clipPath id="row-30"><rect class="reveal-clip" x="23" y="279.50" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.870s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="286.50" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-30)" xml:space="preserve">     :=-----:=%#@@@@=  =*%%%%%##%%%++%@%##*#*#**=#@%*%#%@*-=*--*@@-     </text>
+<rect class="cursor" x="23" y="279.70" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.870s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.870s" fill="freeze"/></rect>
+<clipPath id="row-31"><rect class="reveal-clip" x="23" y="286.85" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.925s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="293.85" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-31)" xml:space="preserve">       ----- =%#@@@@:  +##@@@%%@@%%++##@@#**++#+-=+*-+**@%++=::-#       </text>
+<rect class="cursor" x="23" y="287.05" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.925s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.925s" fill="freeze"/></rect>
+<clipPath id="row-32"><rect class="reveal-clip" x="23" y="294.20" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="1.980s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="301.20" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-32)" xml:space="preserve">        :--- -@%@@@%  :=*#%@@%%%#%%%+@+-+**===-=-====*@@%@@*==-         </text>
+<rect class="cursor" x="23" y="294.40" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="1.980s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="1.980s" fill="freeze"/></rect>
+<clipPath id="row-33"><rect class="reveal-clip" x="23" y="301.55" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="2.035s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="308.55" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-33)" xml:space="preserve">          -- -%%@%@#  :-+#%%@%%#*%@@@%*=-=**+=--::--=%@%%%#*==          </text>
+<rect class="cursor" x="23" y="301.75" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="2.035s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="2.035s" fill="freeze"/></rect>
+<clipPath id="row-34"><rect class="reveal-clip" x="23" y="308.90" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="2.090s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="315.90" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-34)" xml:space="preserve">           ::-%@@%%*  :-+**%@@@%#+#%#+#++==+=++-:::--#@@#+*=:           </text>
+<rect class="cursor" x="23" y="309.10" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="2.090s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="2.090s" fill="freeze"/></rect>
+<clipPath id="row-35"><rect class="reveal-clip" x="23" y="316.25" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="2.145s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="323.25" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-35)" xml:space="preserve">              #@@@%+  - -+###%%%%%%##++#***+**#**##*##%#+=:             </text>
+<rect class="cursor" x="23" y="316.45" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="2.145s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="2.145s" fill="freeze"/></rect>
+<clipPath id="row-36"><rect class="reveal-clip" x="23" y="323.60" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="2.200s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="330.60" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-36)" xml:space="preserve">               :*%@- :::+##+*#%%%@@%#+=*+*++++**+#*++*#=                </text>
+<rect class="cursor" x="23" y="323.80" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="2.200s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="2.200s" fill="freeze"/></rect>
+<clipPath id="row-37"><rect class="reveal-clip" x="23" y="330.95" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="2.255s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="337.95" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-37)" xml:space="preserve">                  :-*%#*+- -**##%%%%@%#==*=:-==+*+*+-                   </text>
+<rect class="cursor" x="23" y="331.15" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="2.255s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="2.255s" fill="freeze"/></rect>
+<clipPath id="row-38"><rect class="reveal-clip" x="23" y="338.30" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="2.310s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="345.30" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-38)" xml:space="preserve">                          :=+***##*%@@%@#*+-+= ::                       </text>
+<rect class="cursor" x="23" y="338.50" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="2.310s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="2.310s" fill="freeze"/></rect>
+<clipPath id="row-39"><rect class="reveal-clip" x="23" y="345.65" width="334" height="9">
+<set attributeName="width" to="0" begin="0s" fill="freeze"/><animate attributeName="width" from="0" to="334" dur=".42s" begin="2.365s" fill="freeze"/>
+</rect></clipPath>
+<text class="ascii" x="23" y="352.65" textLength="334" lengthAdjust="spacingAndGlyphs" clip-path="url(#row-39)" xml:space="preserve">                            :-=+=+**#*##*+=-:                           </text>
+<rect class="cursor" x="23" y="345.85" width="4" height="7.7" fill="#8fffd4" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.04;.9;1" dur=".42s" begin="2.365s" fill="freeze"/><animate attributeName="x" from="23" to="357" dur=".42s" begin="2.365s" fill="freeze"/></rect>
+</svg>
