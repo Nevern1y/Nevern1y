@@ -1,46 +1,11 @@
 {
   "username": "Nevern1y",
-  "generated_at": "2026-08-29T11:41:11Z",
+  "generated_at": "2026-08-30T10:30:49Z",
   "range": {
-    "from": "2025-08-24",
-    "to": "2026-08-29"
+    "from": "2025-08-31",
+    "to": "2026-08-30"
   },
   "days": [
-    {
-      "date": "2025-08-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-25",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-26",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-27",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-28",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-29",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-30",
-      "count": 6,
-      "level": 1
-    },
     {
       "date": "2025-08-31",
       "count": 2,
@@ -1860,11 +1825,16 @@
       "date": "2026-08-29",
       "count": 3,
       "level": 1
+    },
+    {
+      "date": "2026-08-30",
+      "count": 0,
+      "level": 0
     }
   ],
   "stats": {
-    "total": 635,
-    "active_days": 103,
+    "total": 629,
+    "active_days": 102,
     "current_streak": 2,
     "longest_streak": 12,
     "best_day": {
@@ -1872,7 +1842,7 @@
       "count": 98
     },
     "monthly_totals": {
-      "2025-08": 8,
+      "2025-08": 2,
       "2025-09": 50,
       "2025-10": 135,
       "2025-11": 0,
